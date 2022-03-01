@@ -1,2 +1,6 @@
-- name: Metrics embed
-  uses: lowlighter/metrics@v3.19
+name: Default metrics
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.base.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: header, activity, community, repositories, metadata
