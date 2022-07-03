@@ -24,4 +24,4 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=seetee&show_icons=true&locale=en&layout=compact" alt="seetee" /></p>
 
-<p><a href="https://app.daily.dev/seetee"><img src="https://api.daily.dev/devcards/40415e0b39bd4dc48612dd405b09434a.png?r=ivf" width="400" alt="Kenneth Frantzen's Dev Card"/></a></p>
+<p><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/seetee/seetee/blob/main/devcard.svg" width="400" alt="Seetee's Dev Card"/></a></p>
